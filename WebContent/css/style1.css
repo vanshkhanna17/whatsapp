@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #25a9b8;
+}
+.msg{
+    width: 667px;
+}
+img{
+	height: 800px;
+}
+.carousel-control-prev-icon{
+	filter: invert(100%);
+}
+.carousel-control-next-icon{
+	filter: invert(100%);
+}
+.col-md-4{
+    border: 1px solid black;
+}
+.col-md-8{
+    border: 1px solid black;
+}
+.r1{
+	margin-top: 10px;
+	height: 620px;
+}
